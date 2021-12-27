@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{26784469-7D97-4F4F-A603-3F5A22EADA5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FormPharmacie</RootNamespace>
+    <AssemblyName>FormPharmacie</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel, Version=2.1.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.2.1\lib\net20\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib\.net 3.5\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SplashScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SplashScreen.Winforms.1.0.0\lib\SplashScreen.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VisualReactiveWinForms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0ee513efc52b401d, processorArchitecture=MSIL">
+      <HintPath>..\packages\Visual.Reactive.WinForms.1.0.0\lib\VisualReactiveWinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\..\..\XanderUI.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cade barre Scanne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cade barre Scanne.Designer.cs">
+      <DependentUpon>Cade barre Scanne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FicheMedocsExcel.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutClient.Designer.cs">
+      <DependentUpon>FormAjoutClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutFournisseur.Designer.cs">
+      <DependentUpon>FormAjoutFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutUtilisateur.Designer.cs">
+      <DependentUpon>FormAjoutUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brouillon\FormDashboardPharmacie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brouillon\FormDashboardPharmacie.Designer.cs">
+      <DependentUpon>FormDashboardPharmacie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brouillon\FormGestUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brouillon\FormGestUtilisateur.Designer.cs">
+      <DependentUpon>FormGestUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChoixClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChoixClient.Designer.cs">
+      <DependentUpon>FormChoixClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChoixProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChoixProduit.Designer.cs">
+      <DependentUpon>FormChoixProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChoixPVente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChoixPVente.Designer.cs">
+      <DependentUpon>FormChoixPVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditQuantiteInve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditQuantiteInve.Designer.cs">
+      <DependentUpon>FormEditQuantiteInve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFicheNomenclature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFicheNomenclature.Designer.cs">
+      <DependentUpon>FormFicheNomenclature.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormlistMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormlistMedicament.Designer.cs">
+      <DependentUpon>FormlistMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brouillon\FormParametre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brouillon\FormParametre.Designer.cs">
+      <DependentUpon>FormParametre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brouillon\FormParametrePharmacie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brouillon\FormParametrePharmacie.Designer.cs">
+      <DependentUpon>FormParametrePharmacie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brouillon\FormParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brouillon\FormParent.Designer.cs">
+      <DependentUpon>FormParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNomenclatureMedoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNomenclatureMedoc.Designer.cs">
+      <DependentUpon>FormNomenclatureMedoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormParentPharmacie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormParentPharmacie.Designer.cs">
+      <DependentUpon>FormParentPharmacie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPparent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPparent.Designer.cs">
+      <DependentUpon>FormPparent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipalDash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalDash.Designer.cs">
+      <DependentUpon>FormPrincipalDash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReport.Designer.cs">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVentePharmacie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVentePharmacie.Designer.cs">
+      <DependentUpon>FormVentePharmacie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Splash Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Screen.Designer.cs">
+      <DependentUpon>Splash Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UserControls\UserControlAchatp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlAchatp.Designer.cs">
+      <DependentUpon>UserControlAchatp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlFichier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlFichier.Designer.cs">
+      <DependentUpon>UserControlFichier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlFournisseurF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlFournisseurF.Designer.cs">
+      <DependentUpon>UserControlFournisseurF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueVente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueVente.Designer.cs">
+      <DependentUpon>UserControlHistoriqueVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FormAjoutMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\FormAjoutMedicament.Designer.cs">
+      <DependentUpon>FormAjoutMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FormCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\FormCategorie.Designer.cs">
+      <DependentUpon>FormCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FormTerminerVente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\FormTerminerVente.Designer.cs">
+      <DependentUpon>FormTerminerVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\SubMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\SubMenu.Designer.cs">
+      <DependentUpon>SubMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlAchat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlAchat.Designer.cs">
+      <DependentUpon>UserControlAchat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlClient.Designer.cs">
+      <DependentUpon>UserControlClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlCommande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlCommande.Designer.cs">
+      <DependentUpon>UserControlCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlEntre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlEntre.Designer.cs">
+      <DependentUpon>UserControlEntre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlFournisseur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlFournisseur.Designer.cs">
+      <DependentUpon>UserControlFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlGestUtilisateur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlGestUtilisateur.Designer.cs">
+      <DependentUpon>UserControlGestUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueAcht.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueAcht.Designer.cs">
+      <DependentUpon>UserControlHistoriqueAcht.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueCommande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlHistoriqueCommande.Designer.cs">
+      <DependentUpon>UserControlHistoriqueCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlInfosPharmacie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlInfosPharmacie.Designer.cs">
+      <DependentUpon>UserControlInfosPharmacie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlInventaire.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlInventaire.Designer.cs">
+      <DependentUpon>UserControlInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlMedicament.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlMedicament.Designer.cs">
+      <DependentUpon>UserControlMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlPamRayon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlPamRayon.Designer.cs">
+      <DependentUpon>UserControlPamRayon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlStock.Designer.cs">
+      <DependentUpon>UserControlStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockP.Designer.cs">
+      <DependentUpon>UserControlStockP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockSD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockSD.Designer.cs">
+      <DependentUpon>UserControlStockSD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockSG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlStockSG.Designer.cs">
+      <DependentUpon>UserControlStockSG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlTresorie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlTresorie.Designer.cs">
+      <DependentUpon>UserControlTresorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlVente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlVente.Designer.cs">
+      <DependentUpon>UserControlVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlParametre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlParametre.Designer.cs">
+      <DependentUpon>UserControlParametre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlMedocs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlMedocs.Designer.cs">
+      <DependentUpon>UserControlMedocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlViewsVente.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlViewsVente.Designer.cs">
+      <DependentUpon>UserControlViewsVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserControlFichiers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserControlFichiers.Designer.cs">
+      <DependentUpon>UserControlFichiers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserHome.Designer.cs">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserMedicament.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserMedicament.Designer.cs">
+      <DependentUpon>UserMedicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserVendre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserVendre.Designer.cs">
+      <DependentUpon>UserVendre.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cade barre Scanne.resx">
+      <DependentUpon>Cade barre Scanne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutClient.resx">
+      <DependentUpon>FormAjoutClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutFournisseur.resx">
+      <DependentUpon>FormAjoutFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutUtilisateur.resx">
+      <DependentUpon>FormAjoutUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brouillon\FormDashboardPharmacie.resx">
+      <DependentUpon>FormDashboardPharmacie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brouillon\FormGestUtilisateur.resx">
+      <DependentUpon>FormGestUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChoixClient.resx">
+      <DependentUpon>FormChoixClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChoixProduit.resx">
+      <DependentUpon>FormChoixProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChoixPVente.resx">
+      <DependentUpon>FormChoixPVente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditQuantiteInve.resx">
+      <DependentUpon>FormEditQuantiteInve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFicheNomenclature.resx">
+      <DependentUpon>FormFicheNomenclature.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormlistMedicament.resx">
+      <DependentUpon>FormlistMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brouillon\FormParametre.resx">
+      <DependentUpon>FormParametre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brouillon\FormParametrePharmacie.resx">
+      <DependentUpon>FormParametrePharmacie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brouillon\FormParent.resx">
+      <DependentUpon>FormParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNomenclatureMedoc.resx">
+      <DependentUpon>FormNomenclatureMedoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormParentPharmacie.resx">
+      <DependentUpon>FormParentPharmacie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPparent.resx">
+      <DependentUpon>FormPparent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipalDash.resx">
+      <DependentUpon>FormPrincipalDash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReport.resx">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVentePharmacie.resx">
+      <DependentUpon>FormVentePharmacie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportVente.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Screen.resx">
+      <DependentUpon>Splash Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlAchatp.resx">
+      <DependentUpon>UserControlAchatp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlFichier.resx">
+      <DependentUpon>UserControlFichier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlFournisseurF.resx">
+      <DependentUpon>UserControlFournisseurF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlHistoriqueVente.resx">
+      <DependentUpon>UserControlHistoriqueVente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FormAjoutMedicament.resx">
+      <DependentUpon>FormAjoutMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FormCategorie.resx">
+      <DependentUpon>FormCategorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FormTerminerVente.resx">
+      <DependentUpon>FormTerminerVente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\SubMenu.resx">
+      <DependentUpon>SubMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlAchat.resx">
+      <DependentUpon>UserControlAchat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlClient.resx">
+      <DependentUpon>UserControlClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlCommande.resx">
+      <DependentUpon>UserControlCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlEntre.resx">
+      <DependentUpon>UserControlEntre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlFournisseur.resx">
+      <DependentUpon>UserControlFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlGestUtilisateur.resx">
+      <DependentUpon>UserControlGestUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlHistoriqueAcht.resx">
+      <DependentUpon>UserControlHistoriqueAcht.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlHistoriqueCommande.resx">
+      <DependentUpon>UserControlHistoriqueCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlInfosPharmacie.resx">
+      <DependentUpon>UserControlInfosPharmacie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlInventaire.resx">
+      <DependentUpon>UserControlInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlMedicament.resx">
+      <DependentUpon>UserControlMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlPamRayon.resx">
+      <DependentUpon>UserControlPamRayon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlStock.resx">
+      <DependentUpon>UserControlStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlStockP.resx">
+      <DependentUpon>UserControlStockP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlStockSD.resx">
+      <DependentUpon>UserControlStockSD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlStockSG.resx">
+      <DependentUpon>UserControlStockSG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlTresorie.resx">
+      <DependentUpon>UserControlTresorie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlVente.resx">
+      <DependentUpon>UserControlVente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlParametre.resx">
+      <DependentUpon>UserControlParametre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlMedocs.resx">
+      <DependentUpon>UserControlMedocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlViewsVente.resx">
+      <DependentUpon>UserControlViewsVente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserControlFichiers.resx">
+      <DependentUpon>UserControlFichiers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserHome.resx">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserMedicament.resx">
+      <DependentUpon>UserMedicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UserVendre.resx">
+      <DependentUpon>UserVendre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\ProjetPharmacie.Achat.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Client.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Commande.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Fournisseur.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Groupe.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Medicament.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Personne.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Produit.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Rayon.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.BO.Vente.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.HistoriqueAchat.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.HistoriqueCommande.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.HistoriqueVente.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.Stock.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.Utilisateur+RoleOption.datasource" />
+    <None Include="Properties\DataSources\ProjetPharmacie.Utilisateur.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\388985-PC5XF4-563.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_register_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_register_k50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sellhh_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_order_filled_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_register_bg50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out_of_stock_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_registe vertr_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetPharmacie.Multicouche.BLL\ProjetPharmacie.Multicouche.BLL.csproj">
+      <Project>{947214fe-1d9a-4272-9d51-1a4d396352c8}</Project>
+      <Name>ProjetPharmacie.Multicouche.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjetPharmacie.Multicouche.DAL\ProjetPharmacie.Multicouche.DAL.csproj">
+      <Project>{7eac49c8-6b76-4c29-968b-ed89b37f323d}</Project>
+      <Name>ProjetPharmacie.Multicouche.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjetPharmacie\ProjetPharmacie.Multicouche.BO.csproj">
+      <Project>{9a764507-1ae8-468d-94dc-6575a82be1b6}</Project>
+      <Name>ProjetPharmacie.Multicouche.BO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Report\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

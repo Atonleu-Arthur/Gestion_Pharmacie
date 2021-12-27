@@ -1,0 +1,650 @@
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe.config
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormLogin.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.exe
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormDashboardPharmacie.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserHome.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserVendre.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormTerminerVente.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserMedicament.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormAjoutMedicament.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedocs.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormCategorie.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlViewsVente.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\Guna.UI.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.SubMenu.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParent.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParentPharmacie.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\XanderUI.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Form1.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametre.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlGestUtilisateur.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutUtilisateur.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.AboutBox1.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormGestUtilisateur.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametrePharmacie.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlParametre.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormVentePharmacie.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlClient.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutClient.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlVente.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixClient.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutFournisseur.resources
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe.config
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.xml
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csprojAssemblyReference.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.AboutBox1.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Form1.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutClient.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutFournisseur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutUtilisateur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormDashboardPharmacie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormGestUtilisateur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixClient.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormLogin.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametre.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametrePharmacie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParent.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParentPharmacie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormVentePharmacie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Properties.Resources.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormAjoutMedicament.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormCategorie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormTerminerVente.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.SubMenu.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlClient.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlGestUtilisateur.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlVente.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlParametre.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedocs.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlViewsVente.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserHome.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserMedicament.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserVendre.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.GenerateResource.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CoreCompileInputs.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CopyComplete
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.exe
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPparent.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichiers.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixProduit.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormFicheNomenclature.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormlistMedicament.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchat.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.ResolveComReference.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlEntre.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStock.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\Excel.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Design.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Fonts.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueAcht.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSD.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSG.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\bin\Debug\SplashScreen.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Splash_Screen.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlCommande.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueCommande.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixPVente.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControlHistoriqueVente.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPrincipalDash.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichier.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedicament.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseurF.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockP.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlTresorie.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormNomenclatureMedoc.resources
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchatp.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe.config
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Excel.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\SplashScreen.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\EnvDTE.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\stdole.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.xml
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csprojAssemblyReference.cache
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.ResolveComReference.cache
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.AboutBox1.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Cade_barre_Scanne.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Form1.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutClient.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutFournisseur.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormDashboardPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormGestUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixClient.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixProduit.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixPVente.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormFicheNomenclature.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormlistMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormLogin.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametre.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametrePharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParent.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormNomenclatureMedoc.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParentPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPparent.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPrincipalDash.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormVentePharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Properties.Resources.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Splash_Screen.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchatp.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichier.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseurF.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControlHistoriqueVente.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormAjoutMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormCategorie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormTerminerVente.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.SubMenu.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchat.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlClient.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlCommande.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlEntre.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseur.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlGestUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueAcht.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueCommande.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStock.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockP.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSD.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSG.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlTresorie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlVente.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlParametre.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedocs.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlViewsVente.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichiers.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserHome.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserVendre.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.GenerateResource.cache
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CopyComplete
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.exe
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormReport.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\bin\Debug\ReportVente.rdlc
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlPamRayon.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInfosPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormEditQuantiteInve.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInventaire.resources
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ReportVente.rdlc
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe.config
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Excel.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SplashScreen.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\EnvDTE.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\stdole.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.xml
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csprojAssemblyReference.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.ResolveComReference.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.AboutBox1.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Cade_barre_Scanne.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Form1.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutClient.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutFournisseur.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormDashboardPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormGestUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixClient.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixProduit.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixPVente.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormEditQuantiteInve.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormFicheNomenclature.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormlistMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormLogin.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametre.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametrePharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParent.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormNomenclatureMedoc.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParentPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPparent.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPrincipalDash.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormReport.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormVentePharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Properties.Resources.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Splash_Screen.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchatp.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichier.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseurF.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControlHistoriqueVente.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormAjoutMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormCategorie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormTerminerVente.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.SubMenu.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchat.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlClient.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlCommande.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlEntre.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseur.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlGestUtilisateur.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueAcht.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueCommande.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInfosPharmacie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInventaire.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlPamRayon.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStock.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockP.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSD.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSG.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlTresorie.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlVente.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlParametre.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedocs.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlViewsVente.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichiers.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserHome.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserMedicament.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserVendre.resources
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.GenerateResource.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CopyComplete
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.exe
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ReportVente.rdlc
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe.config
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.exe
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\FormPharmacie.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Excel.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Design.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\MetroFramework.Fonts.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\SplashScreen.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\EnvDTE.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\stdole.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\Microsoft.MSXML.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.BLL.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ProjetPharmacie.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\AForge.Video.DirectShow.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\VisualReactiveWinForms.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zxing.presentation.xml
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csprojAssemblyReference.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.ResolveComReference.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.AboutBox1.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Cade_barre_Scanne.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Form1.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutClient.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutFournisseur.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormAjoutUtilisateur.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormDashboardPharmacie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormGestUtilisateur.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixClient.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixProduit.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormChoixPVente.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormEditQuantiteInve.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormFicheNomenclature.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormlistMedicament.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormLogin.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametre.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParametrePharmacie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParent.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormNomenclatureMedoc.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormParentPharmacie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPparent.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormPrincipalDash.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormReport.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.FormVentePharmacie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Properties.Resources.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.Splash_Screen.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchatp.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichier.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseurF.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControlHistoriqueVente.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormAjoutMedicament.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormCategorie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.FormTerminerVente.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.SubMenu.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlAchat.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlClient.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlCommande.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlEntre.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFournisseur.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlGestUtilisateur.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueAcht.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlHistoriqueCommande.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInfosPharmacie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlInventaire.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedicament.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlPamRayon.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStock.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockP.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSD.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlStockSG.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlTresorie.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlVente.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlParametre.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlMedocs.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlViewsVente.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserControlFichiers.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserHome.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserMedicament.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.UserControls.UserVendre.resources
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.GenerateResource.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CoreCompileInputs.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.csproj.CopyComplete
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.exe
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\FormPharmacie\obj\Debug\FormPharmacie.pdb

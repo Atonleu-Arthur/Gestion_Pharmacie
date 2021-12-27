@@ -1,0 +1,45 @@
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Administrateur\Desktop\Ecole IUC\2 Annee\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.pdb
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csprojAssemblyReference.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CoreCompileInputs.cache
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CopyComplete
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\Dossier Ecole IUC\2eme Annee\1 Semestre\Prommation Multicouche sous .NET\Projets de Classe\POJETS SUTIO 2019\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csprojAssemblyReference.cache
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CopyComplete
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.pdb
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csprojAssemblyReference.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CopyComplete
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.dll
+C:\Users\Arthur Atonleu\Desktop\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.Multicouche.DAL.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\bin\Debug\ProjetPharmacie.pdb
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csprojAssemblyReference.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CoreCompileInputs.cache
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.csproj.CopyComplete
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.dll
+D:\ECOLES\CCNB\Doc\Dossiers des projets TIPAM 2\ProjetPharmacie\ProjetPharmacie.Multicouche.DAL\obj\Debug\ProjetPharmacie.Multicouche.DAL.pdb
